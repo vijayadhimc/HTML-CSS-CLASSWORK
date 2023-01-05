@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<head>
+<h1>RMKEC CSE Multiple Columns</h1>
+</head>
+<body>
+
+
+
+<div class="newspaper">
+The Department was started with the sanctioned intake of 40 in the year 1997. The annual sanctioned intake was increased to 60 in the academic year 1998-99, to 90 in the academic year 1999-2000 and further increased to 120 in the academic year 2004-05. The Department also started its P.G. programme M.E. (Computer Science and Engineering) in the year 2004 with the sanctioned intake of 18. The Department is also a recognized Research Centre under Anna University since 2006. There are 2 Research Supervisors and 19 Research Scholars currently pursuing their research in the Department. The U.G. programme of the Department is accredited first in the year 2006 for 3 years and re-accredited by National Board of Accreditation (NBA) in the year 2013 for 2 years. The Department is currently in the process of renewal of its accreditation status.
+
+The Department aims at providing value based training and skills needed for the students in the software industry. The Department has well equipped state-of-the-art laboratory facilities to carryout various real-time projects, research and consultancy activities in recent technologies. A dedicated team of 26 faculty members contribute towards holistic development of students.
+</div>
+
+</body>
+</html>
+
+
+h1 {
+  text-shadow: 2px 2px 8px #FF0000;
+}
+
+.newspaper {
+  column-count: 4;
+}
